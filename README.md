@@ -1,4 +1,9 @@
 ```markdown
+
+## 개발 환경
+- Python 3.x
+- Git / GitHub
+
 ## 기능
 - 과목별 점수 입력
 - 평균 점수 계산
